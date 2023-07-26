@@ -1,0 +1,12 @@
+Here is an example of a CSV file for National holidays in India:
+
+```
+Date,Day,Holiday Name,Type
+01-01-2022,Saturday,New Year's Day,Public
+26-01-2022,Wednesday,Republic Day,Public
+15-08-2022,Monday,Independence Day,Public
+02-10-2022,Sunday,Gandhi Jayanti,Public
+25-12-2022,Sunday,Christmas Day,Public
+```
+
+Please note that this is just an example and the actual dates and holidays may vary each year.
